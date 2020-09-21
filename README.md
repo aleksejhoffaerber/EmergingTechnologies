@@ -20,7 +20,7 @@ approach can be simplified as follows:
 
 7.  Using bigrams to identify specific complicated industries
 
-A result presentation can be downloaded here:
+A result presentation (19th of Novermber, 2019) with more details, can be downloaded here:
 https://github.com/aleksejhoffaerber/EmergingTechnologies/blob/master/Pitch_LDA_Emerging%20Technologies.pdf
 
 Identification of Emerging Industries
