@@ -44,4 +44,10 @@ Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-5.png)
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-6.png)![Seelction
 of Emerging
-Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-7.png)
+Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-7.png)![Seelction
+of Emerging
+Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-8.png)![Seelction
+of Emerging
+Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-9.png)![Seelction
+of Emerging
+Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-10.png)
