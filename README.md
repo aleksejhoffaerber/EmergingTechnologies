@@ -47,32 +47,32 @@ Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-3.png)
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-4.png)
 
-### NA
+### Platforms & Integration
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-5.png)
 
-### Platforms & Integration
+### Aviation
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-6.png)
 
-### Aviation
+### Construction
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-7.png)
 
-### Construction
+### Nutrition Diseases
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-8.png)
 
-### Nutrition Diseases
+### Material Research
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-9.png)
 
-### Material Research
+### New Marketing Schemes
 ![Seelction
 of Emerging
 Topics](readme_files/figure-markdown_github/topic%20wordcloud%20selection-10.png)
